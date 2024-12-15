@@ -1,0 +1,44 @@
+@media (max-width: 740px){
+    .left-right{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media (max-width: 740px){
+    .cards{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width:740px){
+    .list{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 740px){
+    .left-right1{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .left h2{
+        width: 327px;
+    }
+}
+
+@media (max-width: 740px){
+    .navbar{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
